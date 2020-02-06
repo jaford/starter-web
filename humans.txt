@@ -3,11 +3,11 @@
 
 # TEAM
 
-    James Ford 
+    James Ford jamesford3@gmail.com
 
 # THANKS
 
-    <name>
+    <Thanks to all my students>
 
 # TECHNOLOGY COLOPHON
 
