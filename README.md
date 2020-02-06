@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ##Introduction
 
-This repository is for showing how Git and GitHub work.
+This repository is for showing how Git and GitHub work. Adding more text.
 
 ## Purpose
 This repository is for showing how Git and GitHub work.
